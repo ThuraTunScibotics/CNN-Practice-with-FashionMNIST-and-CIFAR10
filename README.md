@@ -17,3 +17,5 @@ The following are the Notebook of all implementations:
     
   **Improved by Data Augmentation**
     * [CNN CIFAR10 improved with **TensorFlow**](https://github.com/ThuraTunScibotics/CNN-Practice-with-FashionMNIST-and-CIFAR10/blob/main/CIFAR10-with-TensorFlow-and-Pytorch/CNN_CIFAR10_TensorFlow_improved.ipynb)
+    * [CNN CIFAR10 improved with **PyTorch**](https://github.com/ThuraTunScibotics/CNN-Practice-with-FashionMNIST-and-CIFAR10/blob/main/CIFAR10-with-TensorFlow-and-Pytorch/CNN_CIFAR10_PyTorch_Improved.ipynb)
+
